@@ -8,21 +8,13 @@
 
 ![image-20201220161211437](https://gitee.com/imeichuan/imghosting/raw/master/img/image-20201220161211437.png)
 
-
-
 ![Image 044](https://gitee.com/imeichuan/imghosting/raw/master/img/Image%20044.png)
 
-![黑猫图片-图行天下素材网](https://gitee.com/imeichuan/imghosting/raw/master/img/heimao-37063467_1.jpg)
+![&#x9ED1;&#x732B;&#x56FE;&#x7247;-&#x56FE;&#x884C;&#x5929;&#x4E0B;&#x7D20;&#x6750;&#x7F51;](https://gitee.com/imeichuan/imghosting/raw/master/img/heimao-37063467_1.jpg)
 
+![&#x6447;&#x7740;&#x5C3E;&#x5DF4;&#x7684;&#x5927;&#x7070;&#x732B;&#x8FD1;&#x666F;&#x6444;&#x5F71;&#x9AD8;&#x6E05;&#x56FE;&#x7247;](https://gitee.com/imeichuan/imghosting/raw/master/img/3-150409161201.jpg)
 
-
-
-
-![摇着尾巴的大灰猫近景摄影高清图片](https://gitee.com/imeichuan/imghosting/raw/master/img/3-150409161201.jpg)
-
-
-
-![猫图：鼠鼠的大灰猫 - 破越公司|异志生活](https://gitee.com/imeichuan/imghosting/raw/master/img/3191811648_599b54f0f2.jpg)
+![&#x732B;&#x56FE;&#xFF1A;&#x9F20;&#x9F20;&#x7684;&#x5927;&#x7070;&#x732B; - &#x7834;&#x8D8A;&#x516C;&#x53F8;\|&#x5F02;&#x5FD7;&#x751F;&#x6D3B;](https://gitee.com/imeichuan/imghosting/raw/master/img/3191811648_599b54f0f2.jpg)
 
 我国网络关注度对股票收益的影响
 
@@ -220,7 +212,7 @@ Individual and Institutional Investors”, Review of Financial Studies, 21\(2\),
 
 Past Stock Market Winners”, Review of Accounting Studies, 15\(2\), pp.317-344
 
-1.  Douglas O. Cook, Robert Kieschnick and Robert A. Van Ness, 2006, “On the Marketing of IPOs”，Journal of Financial
+1. Douglas O. Cook, Robert Kieschnick and Robert A. Van Ness, 2006, “On the Marketing of IPOs”，Journal of Financial
 
 Economics, 82\(1\), pp.35-61
 
@@ -232,13 +224,13 @@ pp.427-465
 
 \(5\), pp.590-610
 
-1.  Paul C. Tetlock, 2007, “Giving Content to Investor Sentiment: The Role of Media in the Stock Market”, Journal of Finance, 62\(3\), pp.1139- 1168
+1. Paul C. Tetlock, 2007, “Giving Content to Investor Sentiment: The Role of Media in the Stock Market”, Journal of Finance, 62\(3\), pp.1139- 1168
 2. Somnath Das, Re-Jin Guo and Huai Zhang, 2006, “Analysts' Selective Coverage and Subsequent Performance of Newly Public Firms”, Journal of Finance, 61\(3\),pp.1159-1185
 3. Wesley S. Chan, 2003, “Stock Price Reaction to News and No-news: Drift and Reversal after Headlines”, Journal of
 
 Financial Economics, 70\(2\), pp.223-260
 
-1.  Zhi Da, Joseph Engelberg and Pengjie Gao, 2011, “In Search of Attention”, Journal of Finance, 66\(5\), pp.1461-1499
+1. Zhi Da, Joseph Engelberg and Pengjie Gao, 2011, “In Search of Attention”, Journal of Finance, 66\(5\), pp.1461-1499
 
 Abstract: This paper studies the relationship between network attention and stock returns. Firstly, we analyze issues according to behavior finance theories and raise hypotheses. Then we test the hypotheses by the network data. The result shows that stocks with high profile will have high turnover on the same day and a day after. High profile will has positive impacts on yields on the same day, but will has negative impacts on yields a day after. The conclusion of this article can provide basis for investors and supervision department to make decision.
 
